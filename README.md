@@ -1,4 +1,4 @@
 # my-project
 for studing course 
 
-##project notes
+## project notes
